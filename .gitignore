@@ -1,0 +1,25 @@
+# Временные файлы
+*.tmp
+*.log
+*.swp
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Sensitive data
+*.key
+*.pem
+*.crt
+*.cert
+*.p12
+*.pfx
+*id_rsa*
+*id_dsa*
+*.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+
