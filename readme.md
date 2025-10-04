@@ -19,11 +19,14 @@
 - **Containers**: Docker, Kubernetes
 - **Cloud**: Yandex Cloud, AWS, GCP
 
-## 📁 Структура
+## 📁 Структура 
+
+```text
 skillbox-devops-projects/
-├── course-start-in-devops/ # Текущий курс
-├── other-courses/ # Другие курсы
-└── templates/ # Шаблоны проектов
+├── course-start-in-devops/     # Текущий курс
+├── other-courses/              # Другие курсы
+└── templates/                  # Шаблоны проектов
+```
 
 
 ## 🚀 Быстрый старт
